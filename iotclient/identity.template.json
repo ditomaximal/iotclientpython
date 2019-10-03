@@ -1,0 +1,15 @@
+{
+"node_id":"***",
+"api_token":"****",
+"sleep_period_s":300,
+"name":"****",
+"system":"raspberrypi",
+"plugins":[
+  "drivers.raspberrypidriver"                      
+],
+"parameters":{
+  "RaspberryPiDriver":{"testparameter":"hello world"}
+}
+}
+
+

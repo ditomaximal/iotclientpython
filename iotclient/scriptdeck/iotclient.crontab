@@ -1,0 +1,2 @@
+# sudo crontab -e
+# @reboot sh /home/pi/iotclient/scriptdeck/iotclient.sh
