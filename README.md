@@ -8,6 +8,11 @@ Client software example for use with the GREX iotserver on a raspberry pi based 
 
 ## Prerequisites
 
+The following software needs to be installed or available on the raspberry pi.
+
+https://gist.github.com/dschep/24aa61672a2092246eaca2824400d37f
+
+
 ### Raspberry Pi based on raspbian
 
 ### Python 3.6 or 3.7
